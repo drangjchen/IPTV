@@ -3,7 +3,7 @@
 http://[2409:8087:2001:20:2800:0:df6e:eb02]/ott.mobaibox.com/PLTV/4/224/3221227896/index.m3u8
 #EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/CCTV2.png" group-title="央视",CCTV-2
 http://[2409:8087:2001:20:2800:0:df6e:eb12]/wh7f454c46tw3589111099_-1793408755/ott.mobaibox.com/PLTV/3/224/3221227543/index.m3u8?icpid=3&RTS=1668594088&from=40&popid=40&hms_devid=2112&prioritypopid=40&vqe=3
-#EXTINF:-1 tvg-id="3" tvg-name="CCTV3" tvg-logo="" group-title="央视",CCTV-3
+#EXTINF:-1 tvg-id="3" tvg-name="CCTV3" tvg-logo="https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/CCTV3.png" group-title="央视",CCTV-3
 http://[2409:8087:2001:20:2800:0:df6e:eb18]/wh7f454c46tw3746132328_-1754088424/ott.mobaibox.com/PLTV/3/224/3221228126/index.m3u8?icpid=3&RTS=1668594245&from=40&popid=40&hms_devid=2113&prioritypopid=40&vqe=3
 #EXTINF:-1 tvg-id="4" tvg-name="CCTV4" tvg-logo="https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/CCTV4.png" group-title="央视",CCTV-4
 http://[2409:8087:2001:20:2800:0:df6e:eb12]/wh7f454c46tw3772680253_-1555628407/ott.mobaibox.com/PLTV/3/224/3221227549/index.m3u8?icpid=3&RTS=1668594272&from=40&popid=40&hms_devid=2112&prioritypopid=40&vqe=3
@@ -191,7 +191,7 @@ http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3
 http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226956/index.m3u8
 #EXTINF:-1 tvg-id="6568" tvg-name="CCTV央视高尔夫网球" tvg-logo="https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/央视高网.png" group-title="数字",央视高网
 http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226978/index.m3u8
-#EXTINF:-1 tvg-id="6245" tvg-name="CHC动作电影" tvg-logo="https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/"CHC动作电影.png" group-title="数字",动作电影
+#EXTINF:-1 tvg-id="6245" tvg-name="CHC动作电影" tvg-logo="https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/CHC动作电影.png" group-title="数字",动作电影
 http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002055/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 #EXTINF:-1 tvg-id="6246" tvg-name="CHC家庭电影" tvg-logo="https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/CHC家庭影院.png" group-title="数字",家庭影院
 http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002085/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
