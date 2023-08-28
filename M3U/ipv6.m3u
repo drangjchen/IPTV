@@ -137,7 +137,7 @@ http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001203/index.m3u8?
 http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001199/index.m3u8?
 #EXTINF:-1 tvg-id="SITV金色学堂" tvg-name="SITV金色学堂" tvg-logo="https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/SITV金色学堂.png" group-title="地方",金色学堂
 http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001194/index.m3u8?
-#EXTINF:-1 tvg-id="SITV法治天地" tvg-name="SITV法治天地" tvg-logo="https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/SITV法治天地.png" group-title="地方",法治天地
+#EXTINF:-1 tvg-id="SITV法治天地" tvg-name="SITV法治天地" tvg-logo="https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/SITV法治天地-light.png" group-title="地方",法治天地
 http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001195/index.m3u8?
 #EXTINF:-1 tvg-id="62" tvg-name="哈哈炫动" tvg-logo="https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/哈哈炫动-light.png" group-title="地方",哈哈炫动
 http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001232/index.m3u8?
