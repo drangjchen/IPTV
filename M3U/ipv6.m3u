@@ -161,7 +161,7 @@ http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001230/index.m3u8?
 http://live.aptvapp.com/sxg.php?id=jykt_2000
 #EXTINF:-1 tvg-id="CCTV4K超高清" tvg-name="CCTV4K超清" tvg-logo="https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/CCTV4k-light.png" group-title="数字",CCTV-4K
 http://liveop.cctv.cn/hls/4KHD/playlist.m3u8
-#EXTINF:-1 tvg-id="CCTV8K超高清" tvg-name="CCTV8K超高清" tvg-logo="https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/CCTV8k-light.png" group-title="数字",CCTV-8K
+#EXTINF:-1 tvg-id="CCTV8K超高清" tvg-name="CCTV8K超高清" tvg-logo="https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/CCTV8K-light.png" group-title="数字",CCTV-8K
 http://[2409:8087:2001:20:2800:0:df6e:eb03]/wh7f454c46tw1981574683_-2118700426/ott.mobaibox.com/PLTV/3/224/3221228165/index.m3u8
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV1超清" tvg-logo="https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/CCTV1-light.png" group-title="数字",CCTV4K轮播
 http://[2409:8087:2001:20:2800:0:df6e:eb02]/ott.mobaibox.com/PLTV/4/224/3221227896/index.m3u8
@@ -229,7 +229,7 @@ http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/322
 http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226505/index.m3u8
 #EXTINF:-1 tvg-id="NewTv欢乐剧场" tvg-name="NewTv欢乐剧场" tvg-logo="https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/NEWTV欢乐剧场.png" group-title="NewTv",NewTv 欢乐剧场
 http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225742/index.m3u8
-#EXTINF:-1 tvg-id="NewTv怡伴健康" tvg-name="NewTv怡伴健康" tvg-logo="https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/NEWTV怡伴健康影.png" group-title="NewTv",NewTv 怡伴健康
+#EXTINF:-1 tvg-id="NewTv怡伴健康" tvg-name="NewTv怡伴健康" tvg-logo="https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/NEWTV怡伴健康.png" group-title="NewTv",NewTv 怡伴健康
 http://[2409:8087:2001:20:2800:0:df6e:eb19]/wh7f454c46tw1986735481_995129881/ott.mobaibox.com/PLTV/3/224/3221227612/index.m3u8
 #EXTINF:-1 tvg-id="NewTv潮妈辣婆" tvg-name="NewTv潮妈辣婆" tvg-logo="https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/NEWTV潮妈辣婆.png" group-title="NewTv",NewTv 潮妈辣婆
 http://[2409:8087:2001:20:2800:0:df6e:eb19]/wh7f454c46tw1705588260_46164741/ott.mobaibox.com/PLTV/3/224/3221227527/index.m3u8
@@ -237,7 +237,7 @@ http://[2409:8087:2001:20:2800:0:df6e:eb19]/wh7f454c46tw1705588260_46164741/ott.
 http://[2409:8087:2001:20:2800:0:df6e:eb06]/wh7f454c46tw1807611386_-262631246/ott.mobaibox.com/PLTV/3/224/3221227603/index.m3u8
 #EXTINF:-1 tvg-id="NewTv中国功夫" tvg-name="NewTv中国功夫" tvg-logo="https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/NEWTV中国功夫.png" group-title="NewTv",NewTv 中国功夫
 http://[2409:8087:2001:20:2800:0:df6e:eb19]/wh7f454c46tw1934355864_2070028581/ott.mobaibox.com/PLTV/3/224/3221227530/index.m3u8
-#EXTINF:-1 tvg-id="NewTv农业致富" tvg-name="NewTv农业致富" tvg-logo="https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/NNEWTV农业致富.png" group-title="NewTv",NewTv 农业致富
+#EXTINF:-1 tvg-id="NewTv农业致富" tvg-name="NewTv农业致富" tvg-logo="https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/NEWTV农业致富.png" group-title="NewTv",NewTv 农业致富
 http://[2409:8087:2001:20:2800:0:df6e:eb18]/wh7f454c46tw2105966330_1690115505/ott.mobaibox.com/PLTV/3/224/3221227588/index.m3u8
 #EXTINF:-1 tvg-id="NewTv动作电影" tvg-name="NewTv动作电影" tvg-logo="https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/NEWTV动作电影.png" group-title="NewTv",NewTv 动作电影
 http://[2409:8087:2001:20:2800:0:df6e:eb06]/wh7f454c46tw2169742343_-422728889/ott.mobaibox.com/PLTV/3/224/3221227606/index.m3u8
@@ -257,7 +257,7 @@ http://[2409:8087:2001:20:2800:0:df6e:eb1b]/wh7f454c46tw2797725038_-2054878207/o
 http://[2409:8087:2001:20:2800:0:df6e:eb1a]/wh7f454c46tw2817459161_-1430429466/ott.mobaibox.com/PLTV/3/224/3221227618/index.m3u8
 #EXTINF:-1 tvg-id="NewTv军事评论" tvg-name="NewTv军事评论" tvg-logo="https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/NEWTV军事评论.png" group-title="NewTv",NewTv 军事评论
 http://[2409:8087:2001:20:2800:0:df6e:eb18]/wh7f454c46tw3373254713_-1111569189/ott.mobaibox.com/PLTV/3/224/3221227544/index.m3u8
-#EXTINF:-1 tvg-id="NewTv精品记录" tvg-name="NewTv精品记录" tvg-logo="https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/NEWTV精品记录.png" group-title="NewTv",NewTv 精品记录
+#EXTINF:-1 tvg-id="NewTv精品纪录" tvg-name="NewTv精品纪录" tvg-logo="https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/NEWTV精品纪录.png" group-title="NewTv",NewTv 精品纪录
 http://[2409:8087:2001:20:2800:0:df6e:eb1a]/wh7f454c46tw2837435881_530071425/ott.mobaibox.com/PLTV/3/224/3221227547/index.m3u8
 #EXTINF:-1 tvg-id="NewTv明星大片" tvg-name="NewTv明星大片" tvg-logo="https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/NEWTV明星大片.png" group-title="NewTv",NewTv 明星大片
 http://[2409:8087:2001:20:2800:0:df6e:eb18]/wh7f454c46tw2856695654_946966165/ott.mobaibox.com/PLTV/3/224/3221227594/index.m3u8
