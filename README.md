@@ -5,7 +5,7 @@
 
 如有需要请大家订阅下列直播源，以保证及时可用：
 
-YueChan_ipv6源：https://raw.githubusercontent.com/YueChan/Live/main/IPTV.m3u；  
+YueChan_ipv6源：https://raw.githubusercontent.com/YueChan/Live/main/IPTV.m3u
 
 APTV_混合源：https://raw.githubusercontent.com/Kimentanm/aptv/master/m3u/iptv.m3u
 
