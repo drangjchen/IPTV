@@ -158,7 +158,7 @@ http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002264/index.m3
 #EXTINF:-1 tvg-id="2025" tvg-name="金鹰纪实" tvg-logo="https://cdn.jsdelivr.net/gh/drangjchen/IPTV@main/Logo/金鹰纪实.png" group-title="地方",金鹰纪实
 http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001230/index.m3u8?
 #EXTINF:-1 tvg-id="金鹰卡通" tvg-name="金鹰卡通" tvg-logo="https://cdn.jsdelivr.net/gh/drangjchen/IPTV@main/Logo/金鹰卡通.png" group-title="地方",金鹰卡通
-http://live.aptvapp.com/sxg.php?id=jykt_2000
+http://223.151.51.27:85/tsfile/live/1016_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="CCTV4K超高清" tvg-name="CCTV4K超清" tvg-logo="https://cdn.jsdelivr.net/gh/drangjchen/IPTV@main/Logo/CCTV4k-light.png" group-title="数字",CCTV-4K
 http://liveop.cctv.cn/hls/4KHD/playlist.m3u8
 #EXTINF:-1 tvg-id="CCTV8K超高清" tvg-name="CCTV8K超高清" tvg-logo="https://cdn.jsdelivr.net/gh/drangjchen/IPTV@main/Logo/CCTV8K-light.png" group-title="数字",CCTV-8K
