@@ -1,10 +1,17 @@
 name: Update M3U Links
 
 on:
+  workflow_dispatch:
+  schedule:
+    - cron: "0 19 * * *"
   push:
     branches:
       - main
-
+    paths-ignore:
+      - "Logo/*.*"
+      - "M3U/ipv6.m3u"
+      - "README.md"
+      
 jobs:
   update-m3u:
     runs-on: ubuntu-latest
