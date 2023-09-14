@@ -1,54 +1,40 @@
-name: Update M3U Links
-
+name: Extract and Replace M3U
 on:
   workflow_dispatch:
   schedule:
     - cron: "0 19 * * *"
-  push:
+  #push:
     branches:
       - main
     paths-ignore:
       - "Logo/*.*"
       - "M3U/ipv6.m3u"
       - "README.md"
-      
-jobs:
-  update-m3u:
-    runs-on: ubuntu-latest
 
+jobs:
+  extract_and_replace:
+    runs-on: ubuntu-latest
+    
     steps:
     - name: Checkout code
       uses: actions/checkout@v2
-
-    - name: Setup Python
+    
+    - name: Set up Python
       uses: actions/setup-python@v2
       with:
-        python-version: 3.x
-
-    - name: Extract Links from Source M3U Files
+        python-version: '3.x'
+    
+    - name: Create tmp directory
+      run: mkdir -p ./tmp
+    
+    - name: Install dependencies
+      run: pip install requests
+    
+    - name: Extract and Replace
       run: |
-        wget https://raw.githubusercontent.com/YueChan/Live/main/IPTV.m3u -O source_m3u1.m3u
-        wget https://raw.githubusercontent.com/Kimentanm/aptv/master/m3u/iptv.m3u -O source_m3u2.m3u
-        wget https://raw.githubusercontent.com/YanG-1989/m3u/main/Gather.m3u -O source_m3u3.m3u
-        python extract_links.py source_m3u1.m3u source_m3u2.m3u source_m3u3.m3u
-
-    - name: Debug - Current Working Directory
-      run: pwd
-
-    - name: Replace Links in Target M3U
-      run: |
-        python replace_links.py ./M3U/YueChan_IPV6.m3u
-
-    - name: Debug - Git Status
-      run: git status
-
-    - name: Debug - Git Log
-      run: git log --oneline -n 10
-
-    - name: Commit and Push Updated M3U
-      run: |
-        git config --local user.email "actions@github.com"
-        git config --local user.name "GitHub Actions"
-        git add ./M3U/YueChan_IPV6.m3u
-        git commit -m "Update M3U links"
-        git push
+        python extract_replace.py
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+    
+    - name: Delete tmp directory
+      run: rm -rf ./tmp
