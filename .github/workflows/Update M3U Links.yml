@@ -10,7 +10,6 @@ on:
       - "Logo/*.*"
       - "M3U/ipv6.m3u"
       - "README.md"
-
 jobs:
   extract_and_replace:
     runs-on: ubuntu-latest
@@ -29,21 +28,24 @@ jobs:
         pip install requests
       shell: bash
 
-    - name: Extract and Replace M3U
+    - name: Create tmp directory and download IPTV.m3u
       run: |
         # Create tmp directory if it doesn't exist
         mkdir -p tmp
-
+        
         # Download the IPTV.m3u file
         wget https://raw.githubusercontent.com/YueChan/Live/main/IPTV.m3u -O tmp/IPTV.m3u
-
+        
         # Extract lines with group-title containing '央视', '国际', '卫视', '地方', and containing 'http://' or 'm3u8?' into separate files
         grep -E 'group-title: (央视|国际|卫视|地方|数字).*http://|m3u8\?' tmp/IPTV.m3u | awk -F ',' '{print > "./tmp/" $6}'
+      shell: bash
 
+    - name: Replace the content of YueChan_ipv6.m3u
+      run: |
         # Replace the content of YueChan_ipv6.m3u with the content of tmp directory
-        cat tmp/* > M3U/YueChan_ipv6.m3u
-
+        latest_file=$(ls -t ./tmp | head -n1)
+        sed -i "s@./M3U/YueChan_ipv6.m3u@$latest_file@" ./M3U/YueChan_ipv6.m3u
+        
         # Clean up tmp directory
         rm -rf tmp
       shell: bash
-        sed -i 's@./M3U/YueChan_ipv6.m3u@./tmp/$(ls -t ./tmp | head -n1)@' ./M3U/YueChan_ipv6.m3u
