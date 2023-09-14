@@ -1,0 +1,34 @@
+name: Update M3U Links
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  update-m3u:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout code
+      uses: actions/checkout@v2
+
+    - name: Setup Python
+      uses: actions/setup-python@v2
+      with:
+        python-version: 3.x
+
+    - name: Extract Links from Source M3U Files
+      run: |
+        wget https://raw.githubusercontent.com/YueChan/Live/main/IPTV.m3u -O source_m3u1.m3u
+        wget https://raw.githubusercontent.com/Kimentanm/aptv/master/m3u/iptv.m3u -O source_m3u2.m3u
+        wget https://raw.githubusercontent.com/YanG-1989/m3u/main/Gather.m3u -O source_m3u3.m3u
+        python extract_links.py source_m3u1.m3u source_m3u2.m3u source_m3u3.m3u
+
+    - name: Commit and Push Updated M3U
+      run: |
+        git config --local user.email "actions@github.com"
+        git config --local user.name "GitHub Actions"
+        git add IPV6_Updated.m3u
+        git commit -m "Update M3U links"
+        git push
