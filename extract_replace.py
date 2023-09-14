@@ -19,6 +19,9 @@ if response.status_code == 200:
             
             # Check if the group-title matches the desired values and if the line contains "http://"
             if group_title in ["央视", "国际", "卫视", "地方", "数字"] and "http://" in line:
+                # Print the line before saving it
+                print(f"Processing: {line}")
+                
                 # Save the line to a file in the ./tmp/ directory
                 with open(f"./tmp/{tvg_name}.m3u", "a") as tmp_file:
                     tmp_file.write(line + "\n")
