@@ -25,11 +25,15 @@ jobs:
     - name: Extract and process M3U
       run: |
         echo "Fetching IPTV.m3u file..."
-        curl -s https://raw.githubusercontent.com/YueChan/Live/main/IPTV.m3u
+        curl -s https://raw.githubusercontent.com/YueChan/Live/main/IPTV.m3u > ./tmp/tmp.txt
         echo "Filtering lines..."
-        grep -E 'group-title="(央视|国际|卫视|地方|数字)".*m3u8.*)' > ./tmp/tmp.txt        
+        grep -E 'group-title="(央视|国际|卫视|地方|数字)".*m3u8' ./tmp/tmp.txt > ./tmp/tmp_filtered.txt
+        tvg_name=$(grep -oP 'tvg-name="\K[^"]+' ./tmp/tmp_filtered.txt)
+        echo "$tvg_name" >> ./tmp/tmp_filtered.txt
+        new_filename="./tmp/${tvg_name}.txt"
+        mv ./tmp/tmp_filtered.txt "$new_filename"
         echo "File moved to $new_filename"
-        mv ./tmp/tmp.txt ./tmp/$(date +"%Y%m%d%H%M%S").txt
+
        
     - name: Replace M3U file
       run: |
