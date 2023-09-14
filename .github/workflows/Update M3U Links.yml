@@ -34,11 +34,11 @@ jobs:
 
     - name: Replace Links in Target M3U
       run: |
-        python replace_links.py YueChan_IPV6.m3u
+        python replace_links.py M3U/YueChan_IPV6.m3u
 
     - name: Commit and Push Updated M3U
       run: |
         git config --local user.email "actions@github.com"
         git config --local user.name "GitHub Actions"
-        git add YueChan_IPV6.m3u  
+        git add M3U/YueChan_IPV6.m3u  
         git push
