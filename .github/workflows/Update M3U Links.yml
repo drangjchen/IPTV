@@ -32,13 +32,23 @@ jobs:
         wget https://raw.githubusercontent.com/YanG-1989/m3u/main/Gather.m3u -O source_m3u3.m3u
         python extract_links.py source_m3u1.m3u source_m3u2.m3u source_m3u3.m3u
 
+    - name: Debug - Current Working Directory
+      run: pwd
+
     - name: Replace Links in Target M3U
       run: |
-        python replace_links.py M3U/YueChan_IPV6.m3u
+        python replace_links.py ./M3U/YueChan_IPV6.m3u
+
+    - name: Debug - Git Status
+      run: git status
+
+    - name: Debug - Git Log
+      run: git log --oneline -n 10
 
     - name: Commit and Push Updated M3U
       run: |
         git config --local user.email "actions@github.com"
         git config --local user.name "GitHub Actions"
-        git add M3U/YueChan_IPV6.m3u  
+        git add ./M3U/YueChan_IPV6.m3u
+        git commit -m "Update M3U links"
         git push
