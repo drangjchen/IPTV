@@ -29,6 +29,6 @@ jobs:
       run: |
         git config --local user.email "actions@github.com"
         git config --local user.name "GitHub Actions"
-        git add ./m3u/YueChan_IPV6_Updated.m3u
+        git add YueChan_IPV6_Updated.m3u
         git commit -m "Update M3U links"
         git push
