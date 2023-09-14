@@ -1,7 +1,5 @@
 def replace_links(target_file):
-    with open(target_file, 'r') as file:
-        lines = file.readlines()
-
+    # ... 其他代码 ...
     replaced = False
 
     for index, line in enumerate(lines):
@@ -17,5 +15,5 @@ def replace_links(target_file):
         file.writelines(lines)
 
 if __name__ == '__main__':
-    target_file = "YueChan_IPV6.m3u"
+    target_file = "M3U/YueChan_IPV6.m3u"
     replace_links(target_file)
