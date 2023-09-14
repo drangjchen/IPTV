@@ -19,22 +19,31 @@ jobs:
     - name: Checkout code
       uses: actions/checkout@v2
 
-    - name: Create tmp directory if not exists
-      run: mkdir -p ./tmp
+    - name: Set up Python
+      uses: actions/setup-python@v2
+      with:
+        python-version: '3.x'
 
-    - name: Extract and process M3U
+    - name: Install dependencies
       run: |
-        echo "Fetching IPTV.m3u file..."
-        curl -s https://raw.githubusercontent.com/YueChan/Live/main/IPTV.m3u > ./tmp/tmp.txt
-        echo "Filtering lines..."
-        grep -E 'group-title="(央视|国际|卫视|地方|数字)".*m3u8' ./tmp/tmp.txt > ./tmp/tmp_filtered.txt
-        tvg_name=$(grep -oP 'tvg-name="\K[^"]+' ./tmp/tmp_filtered.txt)
-        echo "$tvg_name" >> ./tmp/tmp_filtered.txt
-        new_filename="./tmp/${tvg_name}.txt"
-        mv ./tmp/tmp_filtered.txt "$new_filename"
-        echo "File moved to $new_filename"
+        pip install requests
+      shell: bash
 
-       
-    - name: Replace M3U file
+    - name: Extract and Replace M3U
       run: |
+        # Create tmp directory if it doesn't exist
+        mkdir -p tmp
+
+        # Download the IPTV.m3u file
+        wget https://raw.githubusercontent.com/YueChan/Live/main/IPTV.m3u -O tmp/IPTV.m3u
+
+        # Extract lines with group-title containing '央视', '国际', '卫视', '地方', and containing 'http://' or 'm3u8?' into separate files
+        grep -E 'group-title: (央视|国际|卫视|地方|数字).*http://|m3u8\?' tmp/IPTV.m3u | awk -F ',' '{print > "./tmp/" $6}'
+
+        # Replace the content of YueChan_ipv6.m3u with the content of tmp directory
+        cat tmp/* > M3U/YueChan_ipv6.m3u
+
+        # Clean up tmp directory
+        rm -rf tmp
+      shell: bash
         sed -i 's@./M3U/YueChan_ipv6.m3u@./tmp/$(ls -t ./tmp | head -n1)@' ./M3U/YueChan_ipv6.m3u
