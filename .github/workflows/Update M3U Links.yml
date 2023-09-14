@@ -27,7 +27,7 @@ jobs:
         echo "Fetching IPTV.m3u file..."
         curl -s https://raw.githubusercontent.com/YueChan/Live/main/IPTV.m3u
         echo "Filtering lines..."
-        grep -E 'group-title="(央视|国际|卫视|地方|数字)".*http/' > ./tmp/tmp.txt
+        grep -E 'group-title="(央视|国际|卫视|地方|数字)".*(http://.*|.*m3u8.*)' > ./tmp/tmp.txt
         echo "File moved to $new_filename"
         mv ./tmp/tmp.txt ./tmp/$(date +"%Y%m%d%H%M%S").txt
        
