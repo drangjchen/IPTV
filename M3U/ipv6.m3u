@@ -57,7 +57,7 @@ http://live-hls-web-aje.getaj.net/AJE/01.m3u8
 https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_4M.m3u8
 #EXTINF:-1 tvg-id="RTNews" tvg-name="RTNEWS" tvg-logo="https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/RTNews.png" group-title="国际", RT新闻
 https://rt-glb.rttv.com/dvr/rtnews/playlist_4500Kb.m3u8
-#EXTINF:-1 tvg-id="RTDoc" tvg-name="RTDoc" tvg-logo="https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/RTNews.png" group-title="国际",RT纪录
+#EXTINF:-1 tvg-id="RTDoc" tvg-name="RTDoc" tvg-logo="https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/RTDoc.png" group-title="国际",RT纪录
 https://rt-rtd.rttv.com/live/rtdoc/playlist_4500Kb.m3u8
 #EXTINF:-1 tvg-id="TRT_World" tvg-name="TRT_World" tvg-logo="https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/TRT_World-light.png" group-title="国际" ,TRT世界
 https://tv-trtworld.live.trt.com.tr/master_1080.m3u8
