@@ -207,11 +207,11 @@ http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3
 http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226947/index.m3u8
 #EXTINF:-1 tvg-id="CCTV电视指南" tvg-name="电视指南" tvg-logo="https://cdn.jsdelivr.net/gh/drangjchen/IPTV@main/Logo/电视指南-light.png" group-title="数字",电视指南
 http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226987/index.m3u8
-#EXTINF:-1 tvg-id="6569" tvg-name="央视精品" tvg-logo="https://cdn.jsdelivr.net/gh/drangjchen/IPTV@main/Logo/文化精品-light.png" group-title="数字",文化精品
+#EXTINF:-1 tvg-id="6569" tvg-name="文化精品" tvg-logo="https://cdn.jsdelivr.net/gh/drangjchen/IPTV@main/Logo/文化精品-light.png" group-title="数字",文化精品
 http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226981/index.m3u8
 #EXTINF:-1 tvg-id="6584" tvg-name="央视台球" tvg-logo="https://cdn.jsdelivr.net/gh/drangjchen/IPTV@main/Logo/央视台球-light.png" group-title="数字",央视台球
 http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226956/index.m3u8
-#EXTINF:-1 tvg-id="6568" tvg-name="央视高尔夫网球" tvg-logo="https://cdn.jsdelivr.net/gh/drangjchen/IPTV@main/Logo/央视高网-light.png" group-title="数字",央视高网
+#EXTINF:-1 tvg-id="6568" tvg-name="央视高网" tvg-logo="https://cdn.jsdelivr.net/gh/drangjchen/IPTV@main/Logo/央视高网-light.png" group-title="数字",央视高网
 http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226978/index.m3u8
 #EXTINF:-1 tvg-id="6245" tvg-name="CHC动作电影" tvg-logo="https://cdn.jsdelivr.net/gh/drangjchen/IPTV@main/Logo/CHC动作电影.png" group-title="数字",动作电影
 http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002055/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
