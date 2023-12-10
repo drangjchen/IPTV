@@ -47,15 +47,15 @@ http://[2409:8087:2001:20:2800:0:df6e:eb24]/ott.mobaibox.com/PLTV/3/224/32212285
 http://[2409:8087:2001:20:2800:0:df6e:eb27]/ott.mobaibox.com/PLTV/3/224/3221228524/index.m3u8
 #EXTINF:-1 tvg-id="CNN" tvg-name="CNN" tvg-logo="https://cdn.jsdelivr.net/gh/drangjchen/IPTV@main/Logo/CNN.png" group-title="国际",CNN新闻
 https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
-#EXTINF:-1 tvg-id="FoxNews" tvg-name="FoxNews" tvg-logo="https://cdn.jsdelivr.net/gh/drangjchen/IPTV@main/Logo/FOXNEWS.png" group-title="国际",FOX新闻
+#EXTINF:-1 tvg-id="FoxNews" tvg-name="FOXNEWS" tvg-logo="https://cdn.jsdelivr.net/gh/drangjchen/IPTV@main/Logo/FOXNEWS.png" group-title="国际",FOX新闻
 https://fox-foxnewsnow-samsungus.amagi.tv/playlist720p.m3u8
-#EXTINF:-1 tvg-id="6139" tvg-name="ChannelNewsAsia" tvg-logo="https://cdn.jsdelivr.net/gh/drangjchen/IPTV@main/Logo/CNA-NEWS.png" group-title="国际",亚洲新闻
+#EXTINF:-1 tvg-id="6139" tvg-name="CNA-NEWS" tvg-logo="https://cdn.jsdelivr.net/gh/drangjchen/IPTV@main/Logo/CNA-NEWS.png" group-title="国际",亚洲新闻
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
-#EXTINF:-1 tvg-id="7183"tvg-name="aljazeera" tvg-logo="https://cdn.jsdelivr.net/gh/drangjchen/IPTV@main/Logo/半岛新闻.png" group-title="国际",半岛新闻
+#EXTINF:-1 tvg-id="7183"tvg-name="半岛新闻" tvg-logo="https://cdn.jsdelivr.net/gh/drangjchen/IPTV@main/Logo/半岛新闻.png" group-title="国际",半岛新闻
 http://live-hls-web-aje.getaj.net/AJE/01.m3u8
-#EXTINF:-1 tvg-id="331" tvg-name="NHKWorld" tvg-logo="https://cdn.jsdelivr.net/gh/drangjchen/IPTV@main/Logo/NHK日本.png" group-title="国际",NHK世界
+#EXTINF:-1 tvg-id="331" tvg-name="NHK日本" tvg-logo="https://cdn.jsdelivr.net/gh/drangjchen/IPTV@main/Logo/NHK日本.png" group-title="国际",NHK世界
 https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_4M.m3u8
-#EXTINF:-1 tvg-id="RTNews" tvg-name="RTNEWS" tvg-logo="https://cdn.jsdelivr.net/gh/drangjchen/IPTV@main/Logo/RTNews.png" group-title="国际", RT新闻
+#EXTINF:-1 tvg-id="RTNews" tvg-name="RTNews" tvg-logo="https://cdn.jsdelivr.net/gh/drangjchen/IPTV@main/Logo/RTNews.png" group-title="国际", RT新闻
 https://rt-glb.rttv.com/dvr/rtnews/playlist_4500Kb.m3u8
 #EXTINF:-1 tvg-id="RTDoc" tvg-name="RTDoc" tvg-logo="https://cdn.jsdelivr.net/gh/drangjchen/IPTV@main/Logo/RTDoc.png" group-title="国际",RT纪录
 https://rt-rtd.rttv.com/live/rtdoc/playlist_4500Kb.m3u8
@@ -63,9 +63,9 @@ https://rt-rtd.rttv.com/live/rtdoc/playlist_4500Kb.m3u8
 https://tv-trtworld.live.trt.com.tr/master_1080.m3u8
 #EXTINF:-1 tvg-id="TAIWANPLUS" tvg-name="TAIWANPLUS" tvg-logo="https://cdn.jsdelivr.net/gh/drangjchen/IPTV@main/Logo/TAIWANPLUS-light.png" group-title="国际" ,台湾Plus
 https://bcovlive-a.akamaihd.net/rce33d845cb9e42dfa302c7ac345f7858/ap-northeast-1/6282251407001/playlist.m3u8
-#EXTINF:-1 tvg-id="20" tvg-name="CGTN" tvg-logo="https://cdn.jsdelivr.net/gh/drangjchen/IPTV@main/Logo/中国环球.png" group-title="国际",中国环球
+#EXTINF:-1 tvg-id="20" tvg-name="中国环球" tvg-logo="https://cdn.jsdelivr.net/gh/drangjchen/IPTV@main/Logo/中国环球.png" group-title="国际",中国环球
 http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001024/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-#EXTINF:-1 tvg-id="891" tvg-name="CGTNDocumentary" tvg-logo="https://cdn.jsdelivr.net/gh/drangjchen/IPTV@main/Logo/环球纪录.png" group-title="国际",环球纪录
+#EXTINF:-1 tvg-id="891" tvg-name="环球纪录" tvg-logo="https://cdn.jsdelivr.net/gh/drangjchen/IPTV@main/Logo/环球纪录.png" group-title="国际",环球纪录
 http://[2409:8087:5e01:34::20]:6610/ZTE_CMS/00000001000000060000000000000528/index.m3u8?IAS
 #EXTINF:-1 tvg-id="30" tvg-name="北京卫视" tvg-logo="https://cdn.jsdelivr.net/gh/drangjchen/IPTV@main/Logo/北京卫视.png" group-title="卫视",北京卫视
 http://[2409:8087:2001:20:2800:0:df6e:eb0b]/wh7f454c46tw2687876293_-1703018199/ott.mobaibox.com/PLTV/3/224/3221227508/index.m3u8?icpid=3&RTS=1668597482&from=40&popid=40&hms_devid=2038&prioritypopid=40&vqe=3
