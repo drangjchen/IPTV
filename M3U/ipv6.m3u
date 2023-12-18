@@ -47,10 +47,36 @@ http://[2409:8087:2001:20:2800:0:df6e:eb24]/ott.mobaibox.com/PLTV/3/224/32212285
 http://[2409:8087:2001:20:2800:0:df6e:eb27]/ott.mobaibox.com/PLTV/3/224/3221228524/index.m3u8
 #EXTINF:-1 tvg-id="CNN" tvg-name="CNN" tvg-logo="https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/CNN.png" group-title="国际",CNN新闻
 http://abc123.digital:8080/lillie.johnson11@gmail.com/r3yUNMHHwr/418118
-#EXTINF:-1 tvg-id="bbcworldnewsnorthamerica.us" tvg-name="BBC NEWS" tvg-logo="https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/BBC-NEWS.png" group-title="国际",BBC新闻
-http://abc123.digital:8080/lillie.johnson11@gmail.com/r3yUNMHHwr/418112
+#EXTINF:-1 tvg-id="bbcworldnewsnorthamerica.us" tvg-name="BBC-NEWS" tvg-logo="https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/BBC-NEWS.png" group-title="国际",BBC新闻
+http://abc123.digital:8080/lillie.johnson11@gmail.com/r3yUNMHHwr/508035
 #EXTINF:-1 tvg-id="FoxNews" tvg-name="FOXNEWS" tvg-logo="https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/FOXNEWS.png" group-title="国际",FOX新闻
 https://fox-foxnewsnow-samsungus.amagi.tv/playlist720p.m3u8
+#EXTINF:-1 tvg-id="GBNews.uk" tvg-name="GB_News" tvg-logo="https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/GB_News.png" group-title="国际",GB News
+http://abc123.digital:8080/lillie.johnson11@gmail.com/r3yUNMHHwr/508070
+#EXTINF:-1 tvg-id="SkyNews.uk" tvg-name="sky-news" tvg-logo="https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/sky-news-light.png" group-title="国际",Sky News
+http://abc123.digital:8080/lillie.johnson11@gmail.com/r3yUNMHHwr/508065
+#EXTINF:-1 tvg-id="TheFirst.pluto" tvg-name="The_First_TV" tvg-logo="https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/The_First_TV-light.png" group-title="国际",The First
+http://abc123.digital:8080/lillie.johnson11@gmail.com/r3yUNMHHwr/418142
+#EXTINF:-1 tvg-id="discoverychannel.us" tvg-name="DISCOVERY" tvg-logo="https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/discovery-light" group-title="国际",发现频道
+http://abc123.digital:8080/lillie.johnson11@gmail.com/r3yUNMHHwr/418001
+#EXTINF:-1 tvg-id="historychannel.us" tvg-name="history_channel" tvg-logo="https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/history_channel-light.png" group-title="国际",历史频道
+http://abc123.digital:8080/lillie.johnson11@gmail.com/r3yUNMHHwr/417998
+#EXTINF:-1 tvg-id="natgeo.uk" tvg-name="national-geographic" tvg-logo="https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/national-geographic-light.png" group-title="国际",国家地理
+http://abc123.digital:8080/lillie.johnson11@gmail.com/r3yUNMHHwr/508099
+#EXTINF:-1 tvg-id="US: HBO FAMILY WEST" tvg-name="HBO_Family" tvg-logo="https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/HBO_Family.png" group-title="国际",HBO家庭
+http://abc123.digital:8080/lillie.johnson11@gmail.com/r3yUNMHHwr/419289
+#EXTINF:-1 tvg-id="US: HBO SIGNATURE WEST" tvg-name="HBO_Signature" tvg-logo="https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/HBO_Signature.png" group-title="国际",HBO原创
+http://abc123.digital:8080/lillie.johnson11@gmail.com/r3yUNMHHwr/419291
+#EXTINF:-1 tvg-id="US: HBO COMEDY WEST" tvg-name="HBO_COMEDY" tvg-logo="https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/HBO_COMEDY.png" group-title="国际",HBO喜剧
+http://abc123.digital:8080/lillie.johnson11@gmail.com/r3yUNMHHwr/419288
+#EXTINF:-1 tvg-id="animalplanet.ca" tvg-name="Animal_Planet" tvg-logo="https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/Animal_Planet-light.png" group-title="国际",动物星球
+http://abc123.digital:8080/lillie.johnson11@gmail.com/r3yUNMHHwr/360761
+#EXTINF:-1 tvg-id="mtv.us" tvg-name="MTV-Emblem" tvg-logo="https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/MTV-Emblem-light.png" group-title="国际",MTV频道
+http://abc123.digital:8080/lillie.johnson11@gmail.com/r3yUNMHHwr/417898
+#EXTINF:-1 tvg-id="cinemax.us" tvg-name="cinemax-us" tvg-logo="https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/cinemax-us.png" group-title="国际",Cinemax
+http://abc123.digital:8080/lillie.johnson11@gmail.com/r3yUNMHHwr/418077
+#EXTINF:-1 tvg-id="NHK" tvg-name="NHK" tvg-logo="https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/NHK日本.png" group-title="国际",NHK世界
+https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_4M.m3u8
 #EXTINF:-1 tvg-id="6139" tvg-name="CNA-NEWS" tvg-logo="https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/CNA-NEWS.png" group-title="国际",亚洲新闻
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 #EXTINF:-1 tvg-id="7183"tvg-name="半岛新闻" tvg-logo="https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/半岛新闻.png" group-title="国际",半岛新闻
