@@ -47,7 +47,7 @@ http://[2409:8087:2001:20:2800:0:df6e:eb24]/ott.mobaibox.com/PLTV/3/224/32212285
 http://[2409:8087:2001:20:2800:0:df6e:eb27]/ott.mobaibox.com/PLTV/3/224/3221228524/index.m3u8
 #EXTINF:-1 tvg-id="CNN" tvg-name="CNN" tvg-logo="https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/CNN.png" group-title="国际",CNN新闻
 http://abc123.digital:8080/lillie.johnson11@gmail.com/r3yUNMHHwr/418118
-#EXTINF:-1 tvg-id="bbcworldnewsnorthamerica.us" tvg-name="BBC NEWS" tvg-logo="https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/BBC NEWS.png" group-title="国际",BBC新闻
+#EXTINF:-1 tvg-id="bbcworldnewsnorthamerica.us" tvg-name="BBC NEWS" tvg-logo="https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/BBC-NEWS.png" group-title="国际",BBC新闻
 http://abc123.digital:8080/lillie.johnson11@gmail.com/r3yUNMHHwr/418112
 #EXTINF:-1 tvg-id="FoxNews" tvg-name="FOXNEWS" tvg-logo="https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/FOXNEWS.png" group-title="国际",FOX新闻
 https://fox-foxnewsnow-samsungus.amagi.tv/playlist720p.m3u8
