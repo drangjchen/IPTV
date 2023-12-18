@@ -57,7 +57,7 @@ http://abc123.digital:8080/lillie.johnson11@gmail.com/r3yUNMHHwr/508070
 http://abc123.digital:8080/lillie.johnson11@gmail.com/r3yUNMHHwr/508065
 #EXTINF:-1 tvg-id="TheFirst.pluto" tvg-name="The_First_TV" tvg-logo="https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/The_First_TV-light.png" group-title="国际",The First
 http://abc123.digital:8080/lillie.johnson11@gmail.com/r3yUNMHHwr/418142
-#EXTINF:-1 tvg-id="discoverychannel.us" tvg-name="DISCOVERY" tvg-logo="https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/discovery-light" group-title="国际",发现频道
+#EXTINF:-1 tvg-id="discoverychannel.us" tvg-name="DISCOVERY" tvg-logo="https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/discovery-light.png" group-title="国际",发现频道
 http://abc123.digital:8080/lillie.johnson11@gmail.com/r3yUNMHHwr/418001
 #EXTINF:-1 tvg-id="historychannel.us" tvg-name="history_channel" tvg-logo="https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/history_channel-light.png" group-title="国际",历史频道
 http://abc123.digital:8080/lillie.johnson11@gmail.com/r3yUNMHHwr/417998
