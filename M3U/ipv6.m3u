@@ -1,43 +1,43 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/CCTV1-light.png" group-title="央视",CCTV-1 综合
+#EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/CCTV1.png" group-title="央视",CCTV-1 综合
 http://[2409:8087:2001:20:2800:0:df6e:eb03]/ott.mobaibox.com/PLTV/4/224/3221227896/index.m3u8
-#EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/CCTV2-light.png" group-title="央视",CCTV-2 财经
+#EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/CCTV2.png" group-title="央视",CCTV-2 财经
 http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001220/index.m3u8
-#EXTINF:-1 tvg-id="3" tvg-name="CCTV3" tvg-logo="https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/CCTV3-light.png" group-title="央视",CCTV-3 综艺
+#EXTINF:-1 tvg-id="3" tvg-name="CCTV3" tvg-logo="https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/CCTV3.png" group-title="央视",CCTV-3 综艺
 http://[2409:8087:2001:20:2800:0:df6e:eb20]/ott.mobaibox.com/PLTV/4/224/3221228499/index.m3u8
-#EXTINF:-1 tvg-id="4" tvg-name="CCTV4" tvg-logo="https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/CCTV4-light.png" group-title="央视",CCTV-4 中文国际
+#EXTINF:-1 tvg-id="4" tvg-name="CCTV4" tvg-logo="https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/CCTV4.png" group-title="央视",CCTV-4 中文国际
 http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001480/index.m3u8
-#EXTINF:-1 tvg-id="5" tvg-name="CCTV5" tvg-logo="https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/CCTV5-light.png" group-title="央视",CCTV-5 体育
+#EXTINF:-1 tvg-id="5" tvg-name="CCTV5" tvg-logo="https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/CCTV5.png" group-title="央视",CCTV-5 体育
 http://[2409:8087:2001:20:2800:0:df6e:eb22]/ott.mobaibox.com/PLTV/4/224/3221228502/index.m3u8
-#EXTINF:-1 tvg-id="6" tvg-name="CCTV5+" tvg-logo="https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/CCTV5+-light.png" group-title="央视",CCTV-5+ 体育赛事
+#EXTINF:-1 tvg-id="6" tvg-name="CCTV5+" tvg-logo="https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/CCTV5+.png" group-title="央视",CCTV-5+ 体育赛事
 http://[2409:8087:2001:20:2800:0:df6e:eb26]/ott.mobaibox.com/PLTV/1/224/3221228277/index.m3u8
-#EXTINF:-1 tvg-id="7" tvg-name="CCTV6" tvg-logo="https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/CCTV6-light.png" group-title="央视",CCTV-6 电影
+#EXTINF:-1 tvg-id="7" tvg-name="CCTV6" tvg-logo="https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/CCTV6.png" group-title="央视",CCTV-6 电影
 http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001445/index.m3u8
-#EXTINF:-1 tvg-id="8" tvg-name="CCTV7" tvg-logo="https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/CCTV7-light.png" group-title="央视",CCTV-7 国防军事
+#EXTINF:-1 tvg-id="8" tvg-name="CCTV7" tvg-logo="https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/CCTV7.png" group-title="央视",CCTV-7 国防军事
 http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001236/index.m3u8
-#EXTINF:-1 tvg-id="9" tvg-name="CCTV8" tvg-logo="https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/CCTV8-light.png" group-title="央视",CCTV-8 电视剧
+#EXTINF:-1 tvg-id="9" tvg-name="CCTV8" tvg-logo="https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/CCTV8.png" group-title="央视",CCTV-8 电视剧
 http://[2409:8087:2001:20:2800:0:df6e:eb26]/ott.mobaibox.com/PLTV/1/224/3221228578/index.m3u8
-#EXTINF:-1 tvg-id="10" tvg-name="CCTV9" tvg-logo="https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/CCTV9-light.png" group-title="央视",CCTV-9 纪录
+#EXTINF:-1 tvg-id="10" tvg-name="CCTV9" tvg-logo="https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/CCTV9.png" group-title="央视",CCTV-9 纪录
 http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001237/index.m3u8
-#EXTINF:-1 tvg-id="11" tvg-name="CCTV10" tvg-logo="https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/CCTV10-light.png" group-title="央视",CCTV-10 科教
+#EXTINF:-1 tvg-id="11" tvg-name="CCTV10" tvg-logo="https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/CCTV10.png" group-title="央视",CCTV-10 科教
 http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001238/index.m3u8
-#EXTINF:-1 tvg-id="12" tvg-name="CCTV11" tvg-logo="https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/CCTV11-light.png" group-title="央视",CCTV-11 戏曲
+#EXTINF:-1 tvg-id="12" tvg-name="CCTV11" tvg-logo="https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/CCTV11.png" group-title="央视",CCTV-11 戏曲
 http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001309/index.m3u8
-#EXTINF:-1 tvg-id="13" tvg-name="CCTV12" tvg-logo="https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/CCTV12-light.png" group-title="央视",CCTV-12 社会与法
+#EXTINF:-1 tvg-id="13" tvg-name="CCTV12" tvg-logo="https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/CCTV12.png" group-title="央视",CCTV-12 社会与法
 http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001239/index.m3u8
-#EXTINF:-1 tvg-id="14" tvg-name="CCTV13" tvg-logo="https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/CCTV13-light.png" group-title="央视",CCTV-13 新闻
+#EXTINF:-1 tvg-id="14" tvg-name="CCTV13" tvg-logo="https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/CCTV13.png" group-title="央视",CCTV-13 新闻
 http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001328/index.m3u8
-#EXTINF:-1 tvg-id="15" tvg-name="CCTV14" tvg-logo="https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/CCTV14-light.png" group-title="央视",CCTV-14 少儿
+#EXTINF:-1 tvg-id="15" tvg-name="CCTV14" tvg-logo="https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/CCTV14.png" group-title="央视",CCTV-14 少儿
 http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001240/index.m3u8
-#EXTINF:-1 tvg-id="16" tvg-name="CCTV15" tvg-logo="https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/CCTV15-light.png" group-title="央视",CCTV-15 音乐
+#EXTINF:-1 tvg-id="16" tvg-name="CCTV15" tvg-logo="https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/CCTV15.png" group-title="央视",CCTV-15 音乐
 http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001338/index.m3u8
-#EXTINF:-1 tvg-id="17" tvg-name="CCTV16" tvg-logo="https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/CCTV16-light.png" group-title="央视",CCTV-16 奥利匹克
+#EXTINF:-1 tvg-id="17" tvg-name="CCTV16" tvg-logo="https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/CCTV16.png" group-title="央视",CCTV-16 奥利匹克
 http://[2409:8087:2001:20:2800:0:df6e:eb18]/ott.mobaibox.com/PLTV/3/224/3221228127/index.m3u8
-#EXTINF:-1 tvg-id="18" tvg-name="CCTV17" tvg-logo="https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/CCTV17-light.png" group-title="央视",CCTV-17 农业农村
+#EXTINF:-1 tvg-id="18" tvg-name="CCTV17" tvg-logo="https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/CCTV17.png" group-title="央视",CCTV-17 农业农村
 http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001241/index.m3u8
-#EXTINF:-1 tvg-id="CCTV4K" tvg-name="CCTV4K" tvg-logo="https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/CCTV4k-light.png" group-title="央视",CCTV-4K
+#EXTINF:-1 tvg-id="CCTV4K" tvg-name="CCTV4K" tvg-logo="https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/CCTV4k.png" group-title="央视",CCTV-4K
 http://[2409:8087:2001:20:2800:0:df6e:eb25]/ott.mobaibox.com/PLTV/4/224/3221228472/index.m3u8
-#EXTINF:-1 tvg-id="CCTV8K" tvg-name="CCTV8K" tvg-logo="https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/CCTV8K-light.png" group-title="央视",CCTV-8K
+#EXTINF:-1 tvg-id="CCTV8K" tvg-name="CCTV8K" tvg-logo="https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/CCTV8K.png" group-title="央视",CCTV-8K
 http://[2409:8087:2001:20:2800:0:df6e:eb02]/ott.mobaibox.com/PLTV/3/224/3221228165/index.m3u8
 #EXTINF:-1 tvg-id="143" tvg-name="凤凰香港" tvg-logo="https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/凤凰香港.png" group-title="国际",凤凰香港
 http://[2409:8087:2001:20:2800:0:df6e:eb1d]/ott.mobaibox.com/PLTV/3/224/3221228530/1.m3u8
@@ -59,9 +59,9 @@ https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_4M.m3u
 https://rt-glb.rttv.com/dvr/rtnews/playlist_4500Kb.m3u8
 #EXTINF:-1 tvg-id="RTDoc" tvg-name="RTDoc" tvg-logo="https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/RTDoc.png" group-title="国际",RT纪录
 https://rt-rtd.rttv.com/live/rtdoc/playlist_4500Kb.m3u8
-#EXTINF:-1 tvg-id="TRT_World" tvg-name="TRT_World" tvg-logo="https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/TRT_World-light.png" group-title="国际",TRT世界
+#EXTINF:-1 tvg-id="TRT_World" tvg-name="TRT_World" tvg-logo="https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/TRT_World.png" group-title="国际",TRT世界
 https://tv-trtworld.live.trt.com.tr/master_1080.m3u8
-#EXTINF:-1 tvg-id="TAIWANPLUS" tvg-name="TAIWANPLUS" tvg-logo="https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/TAIWANPLUS-light.png" group-title="国际",台湾Plus
+#EXTINF:-1 tvg-id="TAIWANPLUS" tvg-name="TAIWANPLUS" tvg-logo="https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/TAIWANPLUS.png" group-title="国际",台湾Plus
 https://bcovlive-a.akamaihd.net/rce33d845cb9e42dfa302c7ac345f7858/ap-northeast-1/6282251407001/playlist.m3u8
 #EXTINF:-1 tvg-id="20" tvg-name="中国环球" tvg-logo="https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/中国环球.png" group-title="国际",CGTN新闻
 http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001024/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
@@ -131,40 +131,40 @@ http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001348/index.m3u8
 http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001329/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 #EXTINF:-1 tvg-id="67" tvg-name="卡酷少儿" tvg-logo="https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/卡酷少儿.png" group-title="地方",卡酷少儿
 http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001446/index.m3u8
-#EXTINF:-1 tvg-id="黑莓动画" tvg-name="黑莓动画" tvg-logo="https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/黑莓动画-light.png" group-title="地方",黑莓动画
+#EXTINF:-1 tvg-id="黑莓动画" tvg-name="黑莓动画" tvg-logo="https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/黑莓动画.png" group-title="地方",黑莓动画
 http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225662/index.m3u8
-#EXTINF:-1 tvg-id="黑莓电影" tvg-name="黑莓电影" tvg-logo="https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/黑莓电影-light.png" group-title="地方",黑莓电影
+#EXTINF:-1 tvg-id="黑莓电影" tvg-name="黑莓电影" tvg-logo="https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/黑莓电影.png" group-title="地方",黑莓电影
 http://[2409:8087:2001:20:2800:0:df6e:eb04]/ott.mobaibox.com/PLTV/3/224/3221225567/index.m3u8
 http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001016/index.m3u8
 #EXTINF:-1 tvg-id="1988" tvg-name="纪实人文" tvg-logo="https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/纪实人文.png" group-title="地方",纪实人文
 http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001019/index.m3u8
-#EXTINF:-1 tvg-id="1986" tvg-name="东方影视" tvg-logo="https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/东方影视-light.png" group-title="地方",东方影视
+#EXTINF:-1 tvg-id="1986" tvg-name="东方影视" tvg-logo="https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/东方影视.png" group-title="地方",东方影视
 http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001016/index.m3u8
 #EXTINF:-1 tvg-id="1987" tvg-name="五星体育" tvg-logo="https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/五星体育.png" group-title="地方",五星体育
 http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001018/index.m3u8
 #EXTINF:-1 tvg-id="1991" tvg-name="上海外语" tvg-logo="https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/上海外语.png" group-title="地方",上海外语
 http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001128/index.m3u8
-#EXTINF:-1 tvg-id="1989" tvg-name="上海都市" tvg-logo="https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/上海都市-light.png" group-title="地方",上海都市
+#EXTINF:-1 tvg-id="1989" tvg-name="上海都市" tvg-logo="https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/上海都市.png" group-title="地方",上海都市
 http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001015/index.m3u8
 #EXTINF:-1 tvg-id="上海教育" tvg-name="上海教育" tvg-logo="https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/上海教育.png" group-title="地方",上海教育
 http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001268/index.m3u8
 #EXTINF:-1 tvg-id="1984" tvg-name="上海新闻" tvg-logo="https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/上海新闻.png" group-title="地方",上海新闻
 http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001014/index.m3u8
-#EXTINF:-1 tvg-id="SITV都市剧场" tvg-name="SITV都市剧场" tvg-logo="https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/SITV都市剧场-light.png" group-title="地方",都市剧场
+#EXTINF:-1 tvg-id="SITV都市剧场" tvg-name="SITV都市剧场" tvg-logo="https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/SITV都市剧场.png" group-title="地方",都市剧场
 http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001203/index.m3u8
 #EXTINF:-1 tvg-id="1981" tvg-name="生活时尚" tvg-logo="https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/生活时尚.png" group-title="地方",生活时尚
 http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001199/index.m3u8
 #EXTINF:-1 tvg-id="SITV金色学堂" tvg-name="SITV金色学堂" tvg-logo="https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/SITV金色学堂.png" group-title="数字",金色学堂
 http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001194/index.m3u8
-#EXTINF:-1 tvg-id="SITV法治天地" tvg-name="SITV法治天地" tvg-logo="https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/SITV法治天地-light.png" group-title="数字",法治天地
+#EXTINF:-1 tvg-id="SITV法治天地" tvg-name="SITV法治天地" tvg-logo="https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/SITV法治天地.png" group-title="数字",法治天地
 http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001195/index.m3u8
-#EXTINF:-1 tvg-id="62" tvg-name="哈哈炫动" tvg-logo="https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/哈哈炫动-light.png" group-title="地方",哈哈炫动
+#EXTINF:-1 tvg-id="62" tvg-name="哈哈炫动" tvg-logo="https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/哈哈炫动.png" group-title="地方",哈哈炫动
 http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001232/index.m3u8
 #EXTINF:-1 tvg-id="动漫秀场" tvg-name="SITV动漫秀场" tvg-logo="https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/SITV动漫秀场.png" group-title="地方",动漫秀场
 http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001196/index.m3u8
 #EXTINF:-1 tvg-id="1956" tvg-name="七彩戏剧" tvg-logo="https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/七彩戏剧.png" group-title="地方",七彩戏剧
 http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001308/index.m3u8
-#EXTINF:-1 tvg-id="1977" tvg-name="SITV欢笑剧场" tvg-logo="https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/SITV欢笑剧场-light.png" group-title="数字",欢笑剧场-4K
+#EXTINF:-1 tvg-id="1977" tvg-name="SITV欢笑剧场" tvg-logo="https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/SITV欢笑剧场.png" group-title="数字",欢笑剧场-4K
 http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002156/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 #EXTINF:-1 tvg-id="1985" tvg-name="第一财经" tvg-logo="https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/第一财经.png" group-title="地方",第一财经
 http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001017/index.m3u8
@@ -184,37 +184,37 @@ http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001230/index.m3u8
 http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001460/index.m3u8
 #EXTINF:-1 tvg-id="纯享4K" tvg-name="纯享4K" tvg-logo="https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/纯享4K.png" group-title="数字",纯享4K
 http://[2409:8087:2001:20:2800:0:df6e:eb11]/ott.mobaibox.com/PLTV/3/224/3221228242/index.m3u8
-#EXTINF:-1 tvg-id="6242" tvg-name="求索动物" tvg-logo="https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/求索动物-light.png" group-title="数字",求索动物
+#EXTINF:-1 tvg-id="6242" tvg-name="求索动物" tvg-logo="https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/求索动物.png" group-title="数字",求索动物
 http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000002000010046/index.m3u8?channel-id=wasusyt&Contentid=6000000002000010046&livemode=1&stbId=3
-#EXTINF:-1 tvg-id="6243" tvg-name="求索生活" tvg-logo="https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/求索生活-light.png" group-title="数字",求索生活
+#EXTINF:-1 tvg-id="6243" tvg-name="求索生活" tvg-logo="https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/求索生活.png" group-title="数字",求索生活
 http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000002000003382/index.m3u8?channel-id=wasusyt&Contentid=6000000002000003382&livemode=1&stbId=3
-#EXTINF:-1 tvg-id="6240" tvg-name="求索科学" tvg-logo="https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/求索科学-light.png" group-title="数字",求索科学
+#EXTINF:-1 tvg-id="6240" tvg-name="求索科学" tvg-logo="https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/求索科学.png" group-title="数字",求索科学
 http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000002000032344/index.m3u8?channel-id=wasusyt&Contentid=6000000002000032344&livemode=1&stbId=3 
-#EXTINF:-1 tvg-id="6244" tvg-name="求索纪录" tvg-logo="https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/求索纪录-light.png" group-title="数字",求索纪录
+#EXTINF:-1 tvg-id="6244" tvg-name="求索纪录" tvg-logo="https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/求索纪录.png" group-title="数字",求索纪录
 http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000002000032052/index.m3u8?channel-id=wasusyt&Contentid=6000000002000032052&livemode=1&stbId=3
-#EXTINF:-1 tvg-id="6559" tvg-name="风云剧场" tvg-logo="https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/风云剧场-light.png" group-title="数字",风云剧场
+#EXTINF:-1 tvg-id="6559" tvg-name="风云剧场" tvg-logo="https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/风云剧场.png" group-title="数字",风云剧场
 http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226950/index.m3u8
-#EXTINF:-1 tvg-id="6557" tvg-name="风云音乐" tvg-logo="https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/风云音乐-light.png" group-title="数字",风云音乐
+#EXTINF:-1 tvg-id="6557" tvg-name="风云音乐" tvg-logo="https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/风云音乐.png" group-title="数字",风云音乐
 http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226953/index.m3u8
-#EXTINF:-1 tvg-id="6558" tvg-name="第一剧场" tvg-logo="https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/第一剧场-light.png" group-title="数字",第一剧场
+#EXTINF:-1 tvg-id="6558" tvg-name="第一剧场" tvg-logo="https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/第一剧场.png" group-title="数字",第一剧场
 http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226959/index.m3u8
-#EXTINF:-1 tvg-id="6564" tvg-name="女性时尚" tvg-logo="https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/女性时尚-light.png" group-title="数字",女性时尚
+#EXTINF:-1 tvg-id="6564" tvg-name="女性时尚" tvg-logo="https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/女性时尚.png" group-title="数字",女性时尚
 http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226969/index.m3u8
-#EXTINF:-1 tvg-id="6000" tvg-name="风云足球" tvg-logo="https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/风云足球-light.png" group-title="数字",风云足球
+#EXTINF:-1 tvg-id="6000" tvg-name="风云足球" tvg-logo="https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/风云足球.png" group-title="数字",风云足球
 http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226984/index.m3u8
-#EXTINF:-1 tvg-id="6563" tvg-name="兵器科技" tvg-logo="https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/兵器科技-light.png" group-title="数字",兵器科技
+#EXTINF:-1 tvg-id="6563" tvg-name="兵器科技" tvg-logo="https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/兵器科技.png" group-title="数字",兵器科技
 http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226975/index.m3u8
-#EXTINF:-1 tvg-id="6562" tvg-name="怀旧剧场" tvg-logo="https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/怀旧剧场-light.png" group-title="数字",怀旧剧场
+#EXTINF:-1 tvg-id="6562" tvg-name="怀旧剧场" tvg-logo="https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/怀旧剧场.png" group-title="数字",怀旧剧场
 http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226972/index.m3u8
-#EXTINF:-1 tvg-id="6560" tvg-name="世界地理" tvg-logo="https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/世界地理-light.png" group-title="数字",世界地理
+#EXTINF:-1 tvg-id="6560" tvg-name="世界地理" tvg-logo="https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/世界地理.png" group-title="数字",世界地理
 http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226947/index.m3u8
-#EXTINF:-1 tvg-id="CCTV电视指南" tvg-name="电视指南" tvg-logo="https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/电视指南-light.png" group-title="数字",电视指南
+#EXTINF:-1 tvg-id="CCTV电视指南" tvg-name="电视指南" tvg-logo="https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/电视指南.png" group-title="数字",电视指南
 http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226987/index.m3u8
-#EXTINF:-1 tvg-id="6569" tvg-name="文化精品" tvg-logo="https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/文化精品-light.png" group-title="数字",文化精品
+#EXTINF:-1 tvg-id="6569" tvg-name="文化精品" tvg-logo="https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/文化精品.png" group-title="数字",文化精品
 http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226981/index.m3u8
-#EXTINF:-1 tvg-id="6584" tvg-name="央视台球" tvg-logo="https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/央视台球-light.png" group-title="数字",央视台球
+#EXTINF:-1 tvg-id="6584" tvg-name="央视台球" tvg-logo="https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/央视台球.png" group-title="数字",央视台球
 http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226956/index.m3u8
-#EXTINF:-1 tvg-id="6568" tvg-name="央视高网" tvg-logo="https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/央视高网-light.png" group-title="数字",央视高网
+#EXTINF:-1 tvg-id="6568" tvg-name="央视高网" tvg-logo="https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/央视高网.png" group-title="数字",央视高网
 http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226978/index.m3u8
 #EXTINF:-1 tvg-id="6245" tvg-name="CHC动作电影" tvg-logo="https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/CHC动作电影.png" group-title="数字",动作电影
 http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002055/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
@@ -224,53 +224,53 @@ http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002085/index.m3
 http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002065/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 #EXTINF:-1 tvg-id="华数高清" tvg-name="华数高清" tvg-logo="https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/华数.png" group-title="数字",华数超清
 http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000003000004748/index.m3u8?channel-id=wasusyt&Contentid=6000000003000004748&livemode=1&stbId=3
-#EXTINF:-1 tvg-id="NewTv超级电影" tvg-name="NewTv超级电影" tvg-logo="https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/NEWTV超级电影-light.png" group-title="NewTv",NewTv 超级电影
+#EXTINF:-1 tvg-id="NewTv超级电影" tvg-name="NewTv超级电影" tvg-logo="https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/NEWTV超级电影.png" group-title="NewTv",NewTv 超级电影
 http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225717/index.m3u8
-#EXTINF:-1 tvg-id="NewTv超级电视剧" tvg-name="NewTv超级电视剧" tvg-logo="https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/NEWTV超级电视剧-light.png" group-title="NewTv",NewTv 超级电视剧
+#EXTINF:-1 tvg-id="NewTv超级电视剧" tvg-name="NewTv超级电视剧" tvg-logo="https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/NEWTV超级电视剧.png" group-title="NewTv",NewTv 超级电视剧
 http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225716/index.m3u8
-#EXTINF:-1 tvg-id="NewTv超级体育" tvg-name="NewTv超级体育" tvg-logo="https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/NEWTV超级体育-light.png" group-title="NewTv",NewTv 超级体育
+#EXTINF:-1 tvg-id="NewTv超级体育" tvg-name="NewTv超级体育" tvg-logo="https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/NEWTV超级体育.png" group-title="NewTv",NewTv 超级体育
 http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225715/index.m3u8
-#EXTINF:-1 tvg-id="NewTv超级综艺" tvg-name="NewTv超级综艺" tvg-logo="https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/NEWTV超级综艺-light.png" group-title="NewTv",NewTv 超级综艺
+#EXTINF:-1 tvg-id="NewTv超级综艺" tvg-name="NewTv超级综艺" tvg-logo="https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/NEWTV超级综艺.png" group-title="NewTv",NewTv 超级综艺
 http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225714/index.m3u8
-#EXTINF:-1 tvg-id="NewTv金牌综艺" tvg-name="NewTv金牌综艺" tvg-logo="https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/NEWTV金牌综艺-light.png" group-title="NewTv",NewTv 金牌综艺
+#EXTINF:-1 tvg-id="NewTv金牌综艺" tvg-name="NewTv金牌综艺" tvg-logo="https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/NEWTV金牌综艺.png" group-title="NewTv",NewTv 金牌综艺
 http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225666/index.m3u8
-#EXTINF:-1 tvg-id="NewTv东北热剧" tvg-name="NewTv东北热剧" tvg-logo="https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/NEWTV东北热剧-light.png" group-title="NewTv",NewTv 东北热剧
+#EXTINF:-1 tvg-id="NewTv东北热剧" tvg-name="NewTv东北热剧" tvg-logo="https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/NEWTV东北热剧.png" group-title="NewTv",NewTv 东北热剧
 http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225741/index.m3u8
-#EXTINF:-1 tvg-id="NewTv精品萌宠" tvg-name="NewTv精品萌宠" tvg-logo="https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/NEWTV精品萌宠-light.png" group-title="NewTv",NewTv 精品萌宠
+#EXTINF:-1 tvg-id="NewTv精品萌宠" tvg-name="NewTv精品萌宠" tvg-logo="https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/NEWTV精品萌宠.png" group-title="NewTv",NewTv 精品萌宠
 http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226505/index.m3u8
-#EXTINF:-1 tvg-id="NewTv欢乐剧场" tvg-name="NewTv欢乐剧场" tvg-logo="https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/NEWTV欢乐剧场-light.png" group-title="NewTv",NewTv 欢乐剧场
+#EXTINF:-1 tvg-id="NewTv欢乐剧场" tvg-name="NewTv欢乐剧场" tvg-logo="https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/NEWTV欢乐剧场.png" group-title="NewTv",NewTv 欢乐剧场
 http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225742/index.m3u8
-#EXTINF:-1 tvg-id="NewTv怡伴健康" tvg-name="NewTv怡伴健康" tvg-logo="https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/NEWTV怡伴健康-light.png" group-title="NewTv",NewTv 怡伴健康
+#EXTINF:-1 tvg-id="NewTv怡伴健康" tvg-name="NewTv怡伴健康" tvg-logo="https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/NEWTV怡伴健康.png" group-title="NewTv",NewTv 怡伴健康
 http://[2409:8087:2001:20:2800:0:df6e:eb19]/wh7f454c46tw1986735481_995129881/ott.mobaibox.com/PLTV/3/224/3221227612/index.m3u8
-#EXTINF:-1 tvg-id="NewTv潮妈辣婆" tvg-name="NewTv潮妈辣婆" tvg-logo="https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/NEWTV潮妈辣婆-light.png" group-title="NewTv",NewTv 潮妈辣婆
+#EXTINF:-1 tvg-id="NewTv潮妈辣婆" tvg-name="NewTv潮妈辣婆" tvg-logo="https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/NEWTV潮妈辣婆.png" group-title="NewTv",NewTv 潮妈辣婆
 http://[2409:8087:2001:20:2800:0:df6e:eb19]/wh7f454c46tw1705588260_46164741/ott.mobaibox.com/PLTV/3/224/3221227527/index.m3u8
-#EXTINF:-1 tvg-id="NewTv军旅剧场" tvg-name="NewTv军旅剧场" tvg-logo="https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/NEWTV军旅剧场-light.png" group-title="NewTv",NewTv 军旅剧场
+#EXTINF:-1 tvg-id="NewTv军旅剧场" tvg-name="NewTv军旅剧场" tvg-logo="https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/NEWTV军旅剧场.png" group-title="NewTv",NewTv 军旅剧场
 http://[2409:8087:2001:20:2800:0:df6e:eb06]/wh7f454c46tw1807611386_-262631246/ott.mobaibox.com/PLTV/3/224/3221227603/index.m3u8
-#EXTINF:-1 tvg-id="NewTv中国功夫" tvg-name="NewTv中国功夫" tvg-logo="https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/NEWTV中国功夫-light.png" group-title="NewTv",NewTv 中国功夫
+#EXTINF:-1 tvg-id="NewTv中国功夫" tvg-name="NewTv中国功夫" tvg-logo="https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/NEWTV中国功夫.png" group-title="NewTv",NewTv 中国功夫
 http://[2409:8087:2001:20:2800:0:df6e:eb19]/wh7f454c46tw1934355864_2070028581/ott.mobaibox.com/PLTV/3/224/3221227530/index.m3u8
-#EXTINF:-1 tvg-id="NewTv农业致富" tvg-name="NewTv农业致富" tvg-logo="https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/NEWTV农业致富-light.png" group-title="NewTv",NewTv 农业致富
+#EXTINF:-1 tvg-id="NewTv农业致富" tvg-name="NewTv农业致富" tvg-logo="https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/NEWTV农业致富.png" group-title="NewTv",NewTv 农业致富
 http://[2409:8087:2001:20:2800:0:df6e:eb18]/wh7f454c46tw2105966330_1690115505/ott.mobaibox.com/PLTV/3/224/3221227588/index.m3u8
-#EXTINF:-1 tvg-id="NewTv动作电影" tvg-name="NewTv动作电影" tvg-logo="https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/NEWTV动作电影-light.png" group-title="NewTv",NewTv 动作电影
+#EXTINF:-1 tvg-id="NewTv动作电影" tvg-name="NewTv动作电影" tvg-logo="https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/NEWTV动作电影.png" group-title="NewTv",NewTv 动作电影
 http://[2409:8087:2001:20:2800:0:df6e:eb06]/wh7f454c46tw2169742343_-422728889/ott.mobaibox.com/PLTV/3/224/3221227606/index.m3u8
-#EXTINF:-1 tvg-id="NewTv家庭剧场" tvg-name="NewTv家庭剧场" tvg-logo="https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/NEWTV家庭剧场-light.png" group-title="NewTv",NewTv 家庭剧场
+#EXTINF:-1 tvg-id="NewTv家庭剧场" tvg-name="NewTv家庭剧场" tvg-logo="https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/NEWTV家庭剧场.png" group-title="NewTv",NewTv 家庭剧场
 http://[2409:8087:2001:20:2800:0:df6e:eb06]/wh7f454c46tw3441504651_1879058580/ott.mobaibox.com/PLTV/3/224/3221227600/index.m3u8
-#EXTINF:-1 tvg-id="NewTv惊悚悬疑" tvg-name="NewTv惊悚悬疑" tvg-logo="https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/NEWTV惊悚悬疑-light.png" group-title="NewTv",NewTv 惊悚悬疑
+#EXTINF:-1 tvg-id="NewTv惊悚悬疑" tvg-name="NewTv惊悚悬疑" tvg-logo="https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/NEWTV惊悚悬疑.png" group-title="NewTv",NewTv 惊悚悬疑
 http://[2409:8087:2001:20:2800:0:df6e:eb18]/wh7f454c46tw2482771376_951312812/ott.mobaibox.com/PLTV/3/224/3221227536/index.m3u8
-#EXTINF:-1 tvg-id="NewTv武博世界" tvg-name="NewTv武博世界" tvg-logo="https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/NEWTV武博世界-light.png" group-title="NewTv",NewTv 武博世界
+#EXTINF:-1 tvg-id="NewTv武博世界" tvg-name="NewTv武博世界" tvg-logo="https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/NEWTV武博世界.png" group-title="NewTv",NewTv 武博世界
 http://[2409:8087:2001:20:2800:0:df6e:eb19]/wh7f454c46tw2554338791_49940138/ott.mobaibox.com/PLTV/3/224/3221227533/index.m3u8
-#EXTINF:-1 tvg-id="NewTv炫舞未来" tvg-name="NewTv炫舞未来" tvg-logo="https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/NEWTV炫舞未来-light.png" group-title="NewTv",NewTv 炫舞未来
+#EXTINF:-1 tvg-id="NewTv炫舞未来" tvg-name="NewTv炫舞未来" tvg-logo="https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/NEWTV炫舞未来.png" group-title="NewTv",NewTv 炫舞未来
 http://[2409:8087:2001:20:2800:0:df6e:eb09]/wh7f454c46tw2582593423_1721070986/ott.mobaibox.com/PLTV/3/224/3221227475/index.m3u8
-#EXTINF:-1 tvg-id="NewTv爱情喜剧" tvg-name="NewTv爱情喜剧" tvg-logo="https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/NEWTV爱情喜剧-light.png" group-title="NewTv",NewTv 爱情喜剧
+#EXTINF:-1 tvg-id="NewTv爱情喜剧" tvg-name="NewTv爱情喜剧" tvg-logo="https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/NEWTV爱情喜剧.png" group-title="NewTv",NewTv 爱情喜剧
 http://[2409:8087:2001:20:2800:0:df6e:eb1a]/wh7f454c46tw2778199896_-991379679/ott.mobaibox.com/PLTV/3/224/3221227548/index.m3u8
-#EXTINF:-1 tvg-id="NewTv精品体育" tvg-name="NewTv精品体育" tvg-logo="https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/NEWTV精品体育-light.png" group-title="NewTv",NewTv 精品体育
+#EXTINF:-1 tvg-id="NewTv精品体育" tvg-name="NewTv精品体育" tvg-logo="https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/NEWTV精品体育.png" group-title="NewTv",NewTv 精品体育
 http://[2409:8087:2001:20:2800:0:df6e:eb1b]/wh7f454c46tw2797725038_-2054878207/ott.mobaibox.com/PLTV/3/224/3221227615/index.m3u8
-#EXTINF:-1 tvg-id="NewTv精品大剧" tvg-name="NewTv精品大剧" tvg-logo="https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/NEWTV精品大剧-light.png" group-title="NewTv",NewTv 精品大剧
+#EXTINF:-1 tvg-id="NewTv精品大剧" tvg-name="NewTv精品大剧" tvg-logo="https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/NEWTV精品大剧.png" group-title="NewTv",NewTv 精品大剧
 http://[2409:8087:2001:20:2800:0:df6e:eb1a]/wh7f454c46tw2817459161_-1430429466/ott.mobaibox.com/PLTV/3/224/3221227618/index.m3u8
-#EXTINF:-1 tvg-id="NewTv军事评论" tvg-name="NewTv军事评论" tvg-logo="https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/NEWTV军事评论-light.png" group-title="NewTv",NewTv 军事评论
+#EXTINF:-1 tvg-id="NewTv军事评论" tvg-name="NewTv军事评论" tvg-logo="https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/NEWTV军事评论.png" group-title="NewTv",NewTv 军事评论
 http://[2409:8087:2001:20:2800:0:df6e:eb18]/wh7f454c46tw3373254713_-1111569189/ott.mobaibox.com/PLTV/3/224/3221227544/index.m3u8
-#EXTINF:-1 tvg-id="NewTv精品纪录" tvg-name="NewTv精品纪录" tvg-logo="https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/NEWTV精品纪录-light.png" group-title="NewTv",NewTv 精品纪录
+#EXTINF:-1 tvg-id="NewTv精品纪录" tvg-name="NewTv精品纪录" tvg-logo="https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/NEWTV精品纪录.png" group-title="NewTv",NewTv 精品纪录
 http://[2409:8087:2001:20:2800:0:df6e:eb1a]/wh7f454c46tw2837435881_530071425/ott.mobaibox.com/PLTV/3/224/3221227547/index.m3u8
-#EXTINF:-1 tvg-id="NewTv明星大片" tvg-name="NewTv明星大片" tvg-logo="https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/NEWTV明星大片-light.png" group-title="NewTv",NewTv 明星大片
+#EXTINF:-1 tvg-id="NewTv明星大片" tvg-name="NewTv明星大片" tvg-logo="https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/NEWTV明星大片.png" group-title="NewTv",NewTv 明星大片
 http://[2409:8087:2001:20:2800:0:df6e:eb18]/wh7f454c46tw2856695654_946966165/ott.mobaibox.com/PLTV/3/224/3221227594/index.m3u8
 #EXTINF:-1 tvg-id="东方购物" tvg-name="东方购物" tvg-logo="https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/东方购物.png" group-title="购物",东方购物
 http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001039/index.m3u8
