@@ -272,10 +272,8 @@ http://[2409:8087:2001:20:2800:0:df6e:eb18]/wh7f454c46tw3373254713_-1111569189/o
 http://[2409:8087:2001:20:2800:0:df6e:eb1a]/wh7f454c46tw2837435881_530071425/ott.mobaibox.com/PLTV/3/224/3221227547/index.m3u8
 #EXTINF:-1 tvg-id="NewTv明星大片" tvg-name="NewTv明星大片" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/NEWTV明星大片-light.png" group-title="NewTv",NewTv 明星大片
 http://[2409:8087:2001:20:2800:0:df6e:eb18]/wh7f454c46tw2856695654_946966165/ott.mobaibox.com/PLTV/3/224/3221227594/index.m3u8
-#EXTINF:-1 tvg-id="东方购物1" tvg-name="东方购物1" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/东方购物.png" group-title="购物",东方购物1
+#EXTINF:-1 tvg-id="东方购物1" tvg-name="东方购物" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/东方购物.png" group-title="购物",东方购物
 http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001039/index.m3u8
-#EXTINF:-1 tvg-id="东方购物2" tvg-name="东方购物2" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/东方购物.png" group-title="购物",东方购物2
-http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001040/index.m3u8
 #EXTINF:-1 tvg-id="央广购物" tvg-name="央广购物" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/央广购物.png" group-title="购物",央广购物
 http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001420/index.m3u8
 #EXTINF:-1 tvg-id="优购物" tvg-name="优购物" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/优购物.png" group-title="购物",优购物
