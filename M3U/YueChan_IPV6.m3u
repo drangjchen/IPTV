@@ -124,9 +124,9 @@ http://[2409:8087:2001:20:2800:0:df6e:eb0b]/wh7f454c46tw993550557_162751766/ott.
 #EXTINF:-1 tvg-id="云南卫视" tvg-name="云南卫视" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/云南卫视.png" group-title="卫视",云南卫视
 http://[2409:8087:1E03:21::42]:6610/cms001/ch00000090990000001223/index.m3u8?
 #EXTINF:-1 tvg-id="中国教育1台" tvg-name="中国教育1台" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/中国教育.png" group-title="地方",中国教育
-http://[2409:8087:1e03:21::42]:6060/cms001/ch00000090990000001020/index.m3u8?
+http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001020/index.m3u8?
 #EXTINF:-1 tvg-id="中国教育4台" tvg-name="中国教育4台" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/职教频道.png" group-title="地方",职教频道
-http://[2409:8087:1e03:21::42]:6060/cms001/ch00000090990000001348/index.m3u8?
+http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001348/index.m3u8?
 #EXTINF:-1 tvg-id="北京纪实" tvg-name="北京纪实" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/纪实科教.png" group-title="地方",纪实科教
 http://[2409:8087:2001:20:2800:0:df6e:eb0e]/wh7f454c46tw1542052607_1430934483/ott.mobaibox.com/PLTV/3/224/3221227699/index.m3u8?icpid=3&RTS=1669704438&from=40&popid=40&hms_devid=2111&prioritypopid=40&vqe=3
 #EXTINF:-1 tvg-id="卡酷少儿" tvg-name="卡酷少儿" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/卡酷少儿.png" group-title="地方",卡酷少儿
@@ -142,45 +142,45 @@ http://[2409:8087:1E03:21::42]:6610/cms001/ch00000090990000001016/index.m3u8?
 #EXTINF:-1 tvg-id="五星体育" tvg-name="五星体育" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/五星体育-light.png" group-title="地方",五星体育
 http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001018/index.m3u8?
 #EXTINF:-1 tvg-id="上海外语" tvg-name="上海外语" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/上海外语-light.png" group-title="地方",上海外语
-http://[2409:8087:1e03:21::42]:6060/cms001/ch00000090990000001128/index.m3u8?
+http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001128/index.m3u8?
 #EXTINF:-1 tvg-id="上海都市" tvg-name="上海都市" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/上海都市-light.png" group-title="地方",上海都市
-http://[2409:8087:1e03:21::42]:6060/cms001/ch00000090990000001015/index.m3u8?
+http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001015/index.m3u8?
 #EXTINF:-1 tvg-id="上海教育台" tvg-name="上海教育" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/上海教育.png" group-title="地方",上海教育
-http://[2409:8087:1e03:21::42]:6060/cms001/ch00000090990000001268/index.m3u8?
+http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001268/index.m3u8?
 #EXTINF:-1 tvg-id="上海新闻综合" tvg-name="上海新闻" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/上海新闻-light.png" group-title="地方",上海新闻
 http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001014/index.m3u8?
 #EXTINF:-1 tvg-id="都市剧场" tvg-name="SITV都市剧场" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/SITV都市剧场-light.png" group-title="地方",都市剧场
-http://[2409:8087:1e03:21::42]:6060/cms001/ch00000090990000001203/index.m3u8?
+http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001203/index.m3u8?
 #EXTINF:-1 tvg-id="生活时尚" tvg-name="生活时尚" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/生活时尚-light.png" group-title="地方",生活时尚
-http://[2409:8087:1e03:21::42]:6060/cms001/ch00000090990000001199/index.m3u8?
+http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001199/index.m3u8?
 #EXTINF:-1 tvg-id="金色学堂" tvg-name="SITV金色学堂" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/SITV金色学堂.png" group-title="数字",金色学堂
-http://[2409:8087:1e03:21::42]:6060/cms001/ch00000090990000001194/index.m3u8?
+http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001194/index.m3u8?
 #EXTINF:-1 tvg-id="法治天地" tvg-name="SITV法治天地" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/SITV法治天地-light.png" group-title="数字",法治天地
-http://[2409:8087:1e03:21::42]:6060/cms001/ch00000090990000001195/index.m3u8?
+http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001195/index.m3u8?
 #EXTINF:-1 tvg-id="哈哈炫动" tvg-name="哈哈炫动" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/哈哈炫动-light.png" group-title="地方",哈哈炫动
-http://[2409:8087:1e03:21::42]:6060/cms001/ch00000090990000001232/index.m3u8?
+http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001232/index.m3u8?
 #EXTINF:-1 tvg-id="动漫秀场" tvg-name="SITV动漫秀场" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/SITV动漫秀场-light.png" group-title="地方",动漫秀场
-http://[2409:8087:1e03:21::42]:6060/cms001/ch00000090990000001196/index.m3u8?
+http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001196/index.m3u8?
 #EXTINF:-1 tvg-id="七彩戏剧" tvg-name="七彩戏剧" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/七彩戏剧-light.png" group-title="地方",七彩戏剧
-http://[2409:8087:1e03:21::42]:6060/cms001/ch00000090990000001308/index.m3u8?
+http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001308/index.m3u8?
 #EXTINF:-1 tvg-id="欢笑剧场" tvg-name="SITV欢笑剧场" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/SITV欢笑剧场-light.png" group-title="数字",欢笑剧场-4K
 http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002156/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 #EXTINF:-1 tvg-id="上海第一财经" tvg-name="第一财经" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/第一财经-light.png" group-title="地方",第一财经
-http://[2409:8087:1e03:21::42]:6060/cms001/ch00000090990000001017/index.m3u8?
+http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001017/index.m3u8?
 #EXTINF:-1 tvg-id="东方财经" tvg-name="东方财经" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/东方财经-light.png" group-title="地方",东方财经
-http://[2409:8087:1e03:21::42]:6060/cms001/ch00000090990000001318/index.m3u8?
+http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001318/index.m3u8?
 #EXTINF:-1 tvg-id="乐游" tvg-name="SiTV乐游" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/乐游频道.png" group-title="数字",乐游频道
-http://[2409:8087:1e03:21::42]:6060/cms001/ch00000090990000001200/index.m3u8?
+http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001200/index.m3u8?
 #EXTINF:-1 tvg-id="游戏风云" tvg-name="SiTV游戏风云" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/游戏风云.png" group-title="数字",游戏风云
-http://[2409:8087:1e03:21::42]:6060/cms001/ch00000090990000001192/index.m3u8?
+http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001192/index.m3u8?
 #EXTINF:-1 tvg-id="茶" tvg-name="茶频道" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/茶友频道.png" group-title="数字",茶友频道
-http://[2409:8087:1e03:21::42]:6060/cms001/ch00000090990000001234/index.m3u8?
+http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001234/index.m3u8?
 #EXTINF:-1 tvg-id="快乐垂钓" tvg-name="快乐垂钓" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/快乐垂钓.png" group-title="数字",快乐垂钓
-http://[2409:8087:1e03:21::42]:6060/cms001/ch00000090990000001235/index.m3u8?
+http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001235/index.m3u8?
 #EXTINF:-1 tvg-id="金鹰纪实" tvg-name="金鹰纪实" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/金鹰纪实.png" group-title="地方",金鹰纪实
-http://[2409:8087:1e03:21::42]:6060/cms001/ch00000090990000001230/index.m3u8?
+http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001230/index.m3u8?
 #EXTINF:-1 tvg-id="金鹰卡通" tvg-name="金鹰卡通" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/金鹰卡通.png" group-title="地方",金鹰卡通
-http://[2409:8087:1e03:21::42]:6060/cms001/ch00000090990000001460/index.m3u8?
+http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001460/index.m3u8?
 #EXTINF:-1 tvg-id="纯享4K" tvg-name="纯享4K" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/纯享4K.png" group-title="数字",纯享4K
 http://[2409:8087:2001:20:2800:0:df6e:eb11]/ott.mobaibox.com/PLTV/3/224/3221228242/index.m3u8
 #EXTINF:-1 tvg-id="求索动物" tvg-name="求索动物" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/求索动物-light.png" group-title="数字",求索动物
