@@ -171,10 +171,10 @@ http://148.135.93.213:81/live.php?id=文化精品
 http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN6380775932cff/1.m3u8?m3u8_level=2
 #EXTINF:-1 tvg-id="高尔夫网球" tvg-name="央视高网" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/央视高网-light.png" group-title="数字",CCTV 央视高网
 http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN63807743b61bb/1.m3u8?m3u8_level=2
-#EXTINF:-1 tvg-id="CHC动作电影" tvg-name="CHC高清电影" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/CHC高清电影.png" group-title="数字",CHC高清电影
+#EXTINF:-1 tvg-id="CHC高清电影" tvg-name="CHC高清电影" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/CHC高清电影.png" group-title="数字",CHC高清电影
 http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN6380764b172c9/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUTrwI%2B%2BngB0lPRofcD8hTNS8qWmEGeaUedzcFVVumqf9cm8lJoOcrIZueLbqOJTuoPV%2FwBk6CoHYGFV14SkLW04
 #EXTINF:-1 tvg-id="CHC动作电影" tvg-name="CHC动作电影" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/CHC动作电影.png" group-title="数字",CHC动作电影
-http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN63807601b19dd/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUTrwI%2B%2BngB0lPRofcD8hTNRxu2SqX2RKsLT0S7AyQ8XopIVrD6IJGxdajeuKy4iZqZ4tkZuiEpwSRPszF6PIvg4
+http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN6380763222d00/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUTrwI%2B%2BngB0lPRofcD8hTNSXQZMUEnZPBI3Y%2BI8ABE4PJC%2B6OvlZZw5ubC%2FbrIdxFJJY1CcAGU%2BYDDQV9oJ%2FVqQ
 #EXTINF:-1 tvg-id="CHC家庭电影" tvg-name="CHC家庭电影" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/CHC家庭影院.png" group-title="数字",CHC家庭影院
 http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN63807601b19dd/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUTrwI%2B%2BngB0lPRofcD8hTNRxu2SqX2RKsLT0S7AyQ8XopIVrD6IJGxdajeuKy4iZqZ4tkZuiEpwSRPszF6PIvg4
 #EXTINF:-1 tvg-id="newtv超级电影" tvg-name="NewTv超级电影" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/NEWTV超级电影-light.png" group-title="NewTv",NewTv 超级电影
